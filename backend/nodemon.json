@@ -1,0 +1,9 @@
+{
+  "env": {
+    "T_USER": "/",
+    "T_PASSWORD": "/",
+    "T_NAME": "/",
+    "T_APIKEYGOOGLE": "/",
+    "T_JWTKEY": "/"
+  }
+}
