@@ -2,6 +2,8 @@
 
 Checker is a MERN stack app used to share places you have visited with other users.
 
+https://mern-muca.web.app/
+
 ### Third party tehcnologies used
 
 [Bcrypt](https://www.npmjs.com/package/bcrypt) 
